@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink:
 title: "Hello all! This is my blog where I discuss my development progress on the projects I'm working on!"
 excerpt: "About me"
 author_profile: true
