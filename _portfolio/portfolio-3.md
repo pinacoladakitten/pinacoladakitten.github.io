@@ -1,5 +1,5 @@
 ---
-title: "Volatile "
+title: "Volatile"
 excerpt: "An old magic-based platforming game, made in GameMaker:Studio! Created with one of my friends who was the main artist for the game. <br/><img src='/images/Volatile/volatile_img_000.png'>"
 collection: portfolio
 ---
