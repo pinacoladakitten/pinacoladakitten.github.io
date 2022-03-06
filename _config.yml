@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anna J."
   avatar           : "profile.png"
-  bio              : "Hi, I make games and do dev stuff. Currently working on Potato Mage! :)"
+  bio              : "Hi, I make games and do dev stuff. Currently working on Potato Mage: Belfry Of The Ultima! :)"
   location         : "Riverside, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  "pinacoladakitten@gmail.com"
+  email            :  "lunarbananna@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "Kingoftheboo"
   wikipedia        :
 
 
