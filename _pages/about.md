@@ -4,8 +4,6 @@ title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
 ---
 Hey all! Here's a bit about myself. My name's Anna, I'm 23, and I'm a self-taught Programmer, 3D Modeler/Animator, and overall game developer/designer. However, 
 I also have some education from attending RCC and UCR as a Computer Science major. Currently I'm working on multiple personal game development projects with 
