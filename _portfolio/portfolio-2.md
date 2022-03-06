@@ -1,6 +1,6 @@
 ---
-title: "Potato Mage (GameMaker:Studio)"
-excerpt: "The old version of Potato Mage. An Active Battle RPG with real-time combat elements! <br/><img src='/images/PotatoGMS/pot_gms_000.png'>"
+title: "Potato Mage"
+excerpt: "The old version of Potato Mage. An Active Battle RPG, made in GameMaker:Studio, with real-time combat elements! <br/><img src='/images/PotatoGMS/pot_gms_000.png'>"
 collection: portfolio
 ---
 

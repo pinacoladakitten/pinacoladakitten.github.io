@@ -1,6 +1,6 @@
 ---
-title: "Potato Mage: Belfry Of The Ultima (UE4)"
-excerpt: "A 'Story-based Action RPG' in which you work for the God Of The Dead and traverse the Underworld!<br/><img src='/images/PotatoBelfry/pot_img_000.png'>"
+title: "Potato Mage: Belfry Of The Ultima"
+excerpt: "A 'Story-based Action RPG', made in Unreal 4, in which you work for the God Of The Dead and traverse the Underworld!<br/><img src='/images/PotatoBelfry/pot_img_000.png'>"
 collection: portfolio
 ---
 
