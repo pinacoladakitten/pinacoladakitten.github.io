@@ -1,5 +1,5 @@
 ---
-title: "Shadaloo Gate?"
+title: "Shadaloo Gate? (2022-WIP)"
 excerpt: "A recent project that's a unique RPG concept I was coming up with, similar to Undertale, made in GameMaker:Studio. Eager to add more content to it sometime. <br/><img src='/images/Shadaloo/shadalooGate_001.PNG'>"
 collection: portfolio
 ---
