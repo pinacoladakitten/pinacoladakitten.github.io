@@ -4,13 +4,37 @@ excerpt: "A 'Story-based Action RPG', made in Unreal 4, in which you work for th
 collection: portfolio
 ---
 Lumina & Nephal Boss Gameplay Showcase
-======
-https://www.youtube.com/watch?v=Yx-aTCjCRQU
+------
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=Yx-aTCjCRQU"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 Magic Gameplay Showcase
-======
-https://www.youtube.com/watch?v=Mn4f1QXlnxk
+------
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=Mn4f1QXlnxk"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 Overworld Platforming Showcase (Music from FFXIV)
-======
-https://www.youtube.com/watch?v=LQTuboIAjiY
+------
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=LQTuboIAjiY"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
