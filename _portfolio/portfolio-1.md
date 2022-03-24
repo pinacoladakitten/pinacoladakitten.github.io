@@ -6,6 +6,7 @@ collection: portfolio
 Lumina & Nephal Boss Gameplay Showcase
 ------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yx-aTCjCRQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<> **(Music from DMC and NiGHTS)**
 
 Intro Story Sequence Teaser
 ------
@@ -15,6 +16,7 @@ Magic Gameplay Showcase
 ------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mn4f1QXlnxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Overworld Platforming Showcase (Music from FFXIV)
+Overworld Platforming Showcase
 ------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LQTuboIAjiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<> **(Music from FFXIV)**
