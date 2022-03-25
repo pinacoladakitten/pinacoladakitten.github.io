@@ -4,4 +4,6 @@ excerpt: "An old game I developed and released for the iOS app store, made in Ga
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+General Gameplay
+------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYKYqvcyjKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

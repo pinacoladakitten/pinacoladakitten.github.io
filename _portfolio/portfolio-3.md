@@ -4,4 +4,7 @@ excerpt: "An old magic-based platforming game, made in GameMaker:Studio! Created
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Gameplay Showcase
+------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WD0q2-2Rlro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Castlevania Remixes by Lexou Duck & devilbelmont, Art by my friend Figburn)

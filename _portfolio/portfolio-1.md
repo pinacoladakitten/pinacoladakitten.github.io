@@ -6,7 +6,7 @@ collection: portfolio
 Lumina & Nephal Boss Gameplay Showcase
 ------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yx-aTCjCRQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-**(Music from DMC and NiGHTS)**
+**(Music from DMC, NiGHTS, and Kingdom Hearts)**
 
 Intro Story Sequence Teaser
 ------
@@ -15,7 +15,7 @@ Intro Story Sequence Teaser
 Magic Gameplay Showcase
 ------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mn4f1QXlnxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-**(Thank you Abraham for the repo. of old beats I can use)**
+**(Thank you Abraham for the repo. of old beats I can use lol)**
 
 Overworld Platforming Showcase
 ------
