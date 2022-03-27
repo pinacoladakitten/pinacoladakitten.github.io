@@ -9,3 +9,4 @@ Gameplay Showcase
 ------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WD0q2-2Rlro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **(Castlevania Remixes by Lexou Duck & devilbelmont, Art by my friend Figburn)**
+General gameplay showcase for the game, you can swap between 'different forms' in which each has 2 magics you can cast and a different weapon. Not all forms were finished of course, but the general idea is still there lol. I wanted each form to sort of have their own 'playstyle' associated with them, or you can mix up how you would use them.

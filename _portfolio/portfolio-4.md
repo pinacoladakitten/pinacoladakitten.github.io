@@ -8,3 +8,4 @@ A game I developed and released for the iOS app store, made in GameMaker:Studio 
 General Gameplay
 ------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYKYqvcyjKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This video showcases everything the game had to offer. With characters each having their own 'gimmiks' that gave upsides and downsides.
