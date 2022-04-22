@@ -1,9 +1,9 @@
 ---
 title: "Potato Mage: Belfry Of The Ultima (2019-WIP)"
-excerpt: "A 'Story-based Action RPG', made in Unreal 4, in which you work for the God Of The Dead and traverse the Underworld!<br/><img src='/images/PotatoBelfry/pot_img_000.png'>"
+excerpt: "A 'Story-based Action RPG', made in Unreal 4, in which you work for the God Of The Dead and traverse the Underworld! Designed to be a twist on the action-rpg genre, bringing together elements from FFXIV/WoW, DMC, Dark Souls, Kingdom Hearts, and 3D platformers.<br/><img src='/images/PotatoBelfry/pot_img_000.png'>"
 collection: portfolio
 ---
-A 'Story-based Action RPG', made in Unreal 4, in which you work for the God Of The Dead and traverse the Underworld!
+A 'Story-based Action RPG', made in Unreal 4, in which you work for the God Of The Dead and traverse the Underworld! Designed to be a twist on the action-rpg genre, bringing together elements from FFXIV/WoW, DMC, Dark Souls, Kingdom Hearts, and 3D platformers.
 
 Lumina & Nephal Boss Gameplay Showcase
 ------
