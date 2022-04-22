@@ -1,6 +1,6 @@
 ---
 title: "Volatile (2015-2016)"
-excerpt: "A platforming game made in GameMaker:Studio! This game features quick, action oriented, 'magic-based' combat which became an inspiration for Potato Mage: Belfry Of The Ultima. Created with one of my friends who was the main artist for the game. <br/><img src='/images/Volatile/volatile_img_000.png'>"
+excerpt: "A platforming game made in GameMaker:Studio. This game features quick, action oriented, 'magic-based' combat which became an inspiration for Potato Mage: Belfry Of The Ultima. Created with one of my friends who was the main artist for the game. <br/><img src='/images/Volatile/volatile_img_000.png'>"
 collection: portfolio
 ---
 A platforming game made in GameMaker:Studio! This game features quick, action oriented, 'magic-based' combat which became an inspiration for Potato Mage: Belfry Of The Ultima. Created with one of my friends who was the main artist for the game.
